@@ -13,5 +13,5 @@ function matriz(lines){
         
       }
     }
-    console.table(matriz)
+    return console.table(matriz)
    }
